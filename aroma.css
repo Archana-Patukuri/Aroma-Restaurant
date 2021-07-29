@@ -16,7 +16,11 @@ https://img.freepik.com/free-photo/asian-noodles-with-prawns-vegetables-served-b
     background-size: cover;
     height: 100vh;
 }
-
+@media screen and (max-width:700){
+	background-image: url('https://iheartvirginiawine.com/wp-content/uploads/2014/03/restaurant-4.jpg');
+	 background-size: cover;
+    height: 40vh;
+}
 .banner-head {
     font-family: "Roboto";
     font-size: 45px;
