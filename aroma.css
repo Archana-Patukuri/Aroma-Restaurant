@@ -10,23 +10,20 @@ a {
 
 .bg-pic {
     background-image: url('https://iheartvirginiawine.com/wp-content/uploads/2014/03/restaurant-4.jpg');
-/*https://iheartvirginiawine.com/wp-content/uploads/2014/03/restaurant-4.jpg
-https://img.freepik.com/free-photo/asian-noodles-with-prawns-vegetables-served-bowl-dark-background_1220-5665.jpg?size=626&ext=jpg
-*/
     background-size: cover;
     height: 100vh;
 }
 @media screen and (max-width:768px){
 	background-image: url('https://iheartvirginiawine.com/wp-content/uploads/2014/03/restaurant-4.jpg');
-	 background-size: cover;
-    height: 40vh;
+	background-size: cover;
+    	height: 40vh;
 }
 .banner-head {
     font-family: "Roboto";
     font-size: 45px;
     font-weight: 300;
     color: white;
-	padding-top:70px;
+    padding-top:70px;
 
 }
 
